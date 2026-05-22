@@ -1,0 +1,121 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+myenv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Databases & Vector Stores
+*.db
+*.sqlite
+*.sqlite3
+chromadb_data/
+chroma_db/
+*.chroma
+milvus/
+qdrant_data/
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# Node (if using npm)
+node_modules/
+package-lock.json
+
+# Docker
+.dockerignore
+Dockerfile
+
+# Cache
+.cache/
+*.cache
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Scraper Output (keep catalog, exclude raw data)
+scrapers/raw_data/
+scrapers/*.json
+!scrapers/data/catalog.json
+
+# API Cache
+api/cache/
+
+# Playwright
+.playwright/
+test-results/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Credentials (security)
+credentials.json
+secrets.json
+api_keys.txt
+
+# Large Files
+*.zip
+*.tar.gz
+*.rar
+
+# Build
+build/
+dist/
+*.egg-info/

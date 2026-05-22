@@ -1,0 +1,43 @@
+# Web Scraping
+playwright==1.40.0
+
+aiofiles==23.2.1
+
+# Environment & Configuration
+python-dotenv==1.0.0
+
+# FastAPI & Web Server
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+
+# AI & LLM
+langchain
+langchain-openai
+langchain-groq
+openai
+groq
+
+
+# Vector Database & Embeddings
+chromadb>=0.5.0
+sentence-transformers>=2.6.0
+onnx==1.15.0
+onnxruntime==1.17.0
+aiohttp>=3.9.1
+
+# Hybrid Search (BM25 + Semantic)
+rank-bm25==0.2.2
+
+# Streamlit UI
+streamlit>=1.28.0
+requests==2.31.0
+
+# Data Processing
+numpy==1.26.0
+pandas==2.1.0
+
+# Utilities
+tqdm==4.66.0
+

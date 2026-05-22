@@ -1,0 +1,41 @@
+
+mehtesham@quickeee.com
+Attachments
+Wed 20 May, 12:26 (2 days ago)
+to me
+
+Hi ,
+
+Thank you for your interest in Quickeee.
+
+We reviewed your profile and would like to move forward with the assignment round for the Gen AI & Data Engineer role.
+
+Please find the assignment attached in this email. The objective is to evaluate your practical understanding of:
+
+LLM applications
+RAG pipelines
+AI agents
+Vector databases
+Scraping & backend integration
+Submission Requirements:
+
+Public GitHub Repository
+Architecture Documentation
+Demo Recording
+API Endpoint Demo
+Submission Timeline:
+Please submit the assignment within 3 days.
+
+You can share the final submission by replying to this email.
+
+Looking forward to seeing your approach and implementation.
+
+Best Regards,
+Ehtesham
+Quickeee Private Limited
+
+ One attachment
+  •  Scanned by Gmail
+
+
+
